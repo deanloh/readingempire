@@ -1,0 +1,6 @@
+name = Custom Stock Bundle
+description = Decrements the stock value for products referenced by a bundle
+dependencies[] = commerce_line_item
+dependencies[] = commerce_cart
+dependencies[] = rules
+core = 7.x
